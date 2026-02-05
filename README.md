@@ -1,1 +1,1 @@
-<samp>i like backend, ml systems & infra.</samp>
+<samp>i mainly work on ml systems & infra.</samp>
