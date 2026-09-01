@@ -1,1 +1,1 @@
-<samp>ml engineer working on inference, agentic systems and post-training.</samp>
+<samp>inference, agents, distributed systems and infra.</samp>
